@@ -7,7 +7,8 @@ Using this year's Advent of Code to learn Kotlin and solve some fun problems in 
 ## Quick links
 
 [Day 1 Solution](/src/day01/Solution.kt)  
-[Day 2 Solution](/src/day02/Solution.kt)
+[Day 2 Solution](/src/day02/Solution.kt)  
+[Day 3 Solution](/src/day03/Solution.kt)
 
 ## File map
 
@@ -16,6 +17,8 @@ src
 ├── Utils.kt
 ├── day01
 │   ├── Solution.kt
-└── day02
+├── day02
+|   ├── Solution.kt
+└── day03
     ├── Solution.kt
 ```
